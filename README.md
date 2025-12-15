@@ -5,7 +5,7 @@ El proyecto está desplegado en producción usando **Netlify** (frontend) y **Re
 
 ## Demo
 
-- **Frontend:** https://merry-macaron-f07172.netlify.app  
+- **Frontend:** https://gregarious-sfogliatella-a7b43d.netlify.app/
 - **Backend API:** https://todo-lits.onrender.com  
 - **Health check:** https://todo-lits.onrender.com/api/health  
 
